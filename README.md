@@ -14,8 +14,9 @@ The project inclues:<br>
               * The cost input is limited to single digit.<br>
 **Page 4 :** Here the visualization of the algorithm is displayed.<br>
               The user can click the right mouse button to display a menu. The menu contains an option to display the path and the
-              cost or to quit. The needful is done by the menu.<br>
+              cost or to quit. The needful is done by the menu.<br><br>
               
+# Sample Output:<br>              
               
 **Page 1 :**<br>
 <img src="Screenshots/image1.PNG" width=500px><br><br><br>
