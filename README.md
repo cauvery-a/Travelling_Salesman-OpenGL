@@ -19,13 +19,17 @@ The project inclues:<br>
 # Sample Output:<br>              
               
 **Page 1 :**<br><br>
-<img src="Screenshots/image1.PNG" width=750px><br><br><br>
+<img src="Screenshots/page1.png" width=750px><br><br><br>
 
 **Page 2 :**<br><br>
-<img src="Screenshots/image2.PNG" width=750px><br><br><br>
+<img src="Screenshots/page2.png" width=750px><br><br><br>
 
 **Page 3 :**<br><br>
-<img src="Screenshots/image3.PNG" width=750px><br><br><br>
+<img src="Screenshots/page3.png" width=750px><br><br><br>
 
 **Page 4 :**<br><br>
-<img src="Screenshots/image4.PNG" width=750px>
+<img src="Screenshots/page4.png" width=750px><br><br><br>
+
+<img src="Screenshots/page5.png" width=750px><br><br><br>
+
+<img src="Screenshots/page6.png" width=750px><br><br><br>
