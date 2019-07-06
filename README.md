@@ -18,14 +18,14 @@ The project inclues:<br>
               
 # Sample Output:<br>              
               
-**Page 1 :**<br>
+**Page 1 :**<br><br>
 <img src="Screenshots/image1.PNG" width=500px><br><br><br>
 
-**Page 2 :**
+**Page 2 :**<br><br>
 <img src="Screenshots/image2.PNG" width=500px><br><br><br>
 
-**Page 3 :**
+**Page 3 :**<br><br>
 <img src="Screenshots/image3.PNG" width=500px><br><br><br>
 
-**Page 4 :**
+**Page 4 :**<br><br>
 <img src="Screenshots/image4.PNG" width=500px>
